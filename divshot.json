@@ -1,5 +1,6 @@
 {
-  "name": "br-frontend-testing-imoffitt",
-  "root": "dist",
-  "clean_urls": true
+  "name": "exercise-2",
+  "root": "./",
+  "clean_urls": true,
+  "error_page": "error.html"
 }
